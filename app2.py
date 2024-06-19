@@ -1,1 +1,1 @@
-password = 'yyzr rjsy zuil qekm'
+password = 'temporary password'
