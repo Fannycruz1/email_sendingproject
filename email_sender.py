@@ -10,7 +10,7 @@ import smtplib
 email_sender = 'fanicita4@gmail.com'
 email_password = password
 
-
+# used a temporary password to check the functionality
 email_receiver = 'bahata4298@gawte.com'
 
 subject = "Don't forget about IEEE meeting!"
