@@ -12,7 +12,7 @@ Utilizes certifi and ssl to establish a secure SSL connection.
 Uses smtplib to handle the SMTP communication with Gmail's server.
 Email Composition:
 
-Constructs an email with the sender's email address (fanicita4@gmail.com), receiver's email address (fannycruz41@outlook.com), subject line ("Don't forget about IEEE meeting!"), and body text containing the meeting time and Zoom link.
+Constructs an email with the sender's email address, subject line ("Don't forget about IEEE meeting!"), and body text containing the meeting time and Zoom link.
 SSL Context:
 
 Creates an SSL context using ssl.create_default_context() with certifi.where() to ensure secure certificate validation.
